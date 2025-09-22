@@ -1,4 +1,4 @@
 # Trialdemo
 My first GIT Repository
 <br>
-Author - Cherith
+Author - Cherith L
